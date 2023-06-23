@@ -3,7 +3,7 @@
 1. Go to terminal and in your home directory: 
 
 ```
-cd .bashsrc
+nano .bashsrc
 ```
 2. Either in the first or last line write: 
 
