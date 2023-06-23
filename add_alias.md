@@ -7,11 +7,11 @@ cd .bashsrc
 ```
 2. Either in the first or last line write: 
 
-alias farm='ssh blabla@bla.bla.bla.bla'
+```alias farm='ssh blabla@bla.bla.bla.bla'```
 
 Save the file and exit. 
 
 3. In the terminal again do:
 
-source .bashsrc
+```source .bashsrc```
 
