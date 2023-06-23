@@ -43,4 +43,4 @@ Run the following command in a new terminal on your computer:
 
 ### Open the link and copy username and password. 
 
-You should have a rstudio working now!
+Login with given username and password.
